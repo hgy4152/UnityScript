@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28783a4eb337f8541912bbdde2360403, type: 3}
+  m_Name: Monster 0
+  m_EditorClassIdentifier: 
+  monType: 0
+  monId: 0
+  monName: Ghost
+  monImg: {fileID: -750047184722822154, guid: 1914d95466e3d4341a618c35a56d5f82, type: 3}
+  monHealth: 100
+  monAmmor: 10
+  monPower: 20
+  monMsd: 2
+  monAsd: 1
